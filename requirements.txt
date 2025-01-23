@@ -5,3 +5,4 @@ matplotlib
 wordcloud
 seaborn
 python-docx
+openpyxl
