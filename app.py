@@ -1,3 +1,12 @@
+import sys
+
+try:
+    import matplotlib.pyplot as plt
+    print("Matplotlib imported successfully!")
+except ImportError as e:
+    print("Error importing matplotlib:", e)
+    sys.exit(1)  # Exit the program if matplotlib is not available
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
