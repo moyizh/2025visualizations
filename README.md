@@ -37,8 +37,9 @@ Outil permettant de visualiser des données issues de fichiers CSV, Excel ou Wor
 
 **Données et Rapports Utilisés :**
 
-Rapport : La Femme Invisible dans le Numérique : Le Cercle Vicieux du Sexisme (2023).
+ 1. Haut Conseil à l’Égalité entre les Femmes et les Hommes. La Femme Invisible dans le Numérique : Le Cercle Vicieux du Sexisme. 7 Nov. 2023, Votre texte de paragraphe. Accessed 23 Jan. 2025.
+ 2. Statista. Women in Tech. Votre texte de paragraphe. Accessed 23 Jan. 2025.
+ 3. Institut National de la Statistique et des Études Économiques (INSEE). Les femmes dans les métiers du numérique. 2023, Votre texte de paragraphe. Accessed 23 Jan. 2025.
+ 4. Datawrapper. Create Charts and Maps Online. Votre texte de paragraphe. Accessed 23 Jan. 2025.
+ 5. World Bank. Labor Force, Female (% of Total Labor Force). 2023, Votre texte de paragraphe. Accessed 23 Jan. 2025.
 
-Women in Digital Scoreboard 2024 (EU).
-
-Données INSEE et Datawrapper.
