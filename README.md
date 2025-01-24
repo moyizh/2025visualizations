@@ -34,6 +34,14 @@ Nuage de mots basé sur le rapport La Femme Invisible dans le Numérique : Le Ce
 2. Application Streamlit :
 Outil permettant de visualiser des données issues de fichiers CSV, Excel ou Word, avec des options de diagrammes (barres, lignes, secteurs, nuage de mots).
 
+**Calendrier du projet**
+
+Définir la direction et le thème de la recherche :  Lundi
+Collecte des données :  Mardi
+Création du PPT : Mercredi 
+Création de la visualisation des données : Jeudi 
+Synthèse et présentation finale :  Vendredi 
+
 
 **Données et Rapports Utilisés :**
 
