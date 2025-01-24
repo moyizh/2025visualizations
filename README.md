@@ -11,6 +11,8 @@ Lien GitHub: https://moyizh.github.io/2025visualizations/
 
 Lien vers l’application Streamlit: https://2025visualizations-nb8cxl5wjqypsaenzry2yw.streamlit.app/
 
+Lien vers support Canvas: https://www.canva.com/design/DAGc00dBHys/EZh-_MjAt-FAZIOVapBE1w/edit?utm_content=DAGc00dBHys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 **Membres du Groupe M2HN-NET:**
 
