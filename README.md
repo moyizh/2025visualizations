@@ -9,7 +9,10 @@ M2HN-NET
 
 Lien GitHub: https://moyizh.github.io/2025visualizations/
 
-Lien vers l’application Streamlit: 
+Lien vers l’application Streamlit github: https://github.com/anoushka1/Easyviz
+
+Lien vers l’application Streamlit demo:
+
 https://easyviz4.streamlit.app/
 https://2025visualizations-nb8cxl5wjqypsaenzry2yw.streamlit.app/
 
