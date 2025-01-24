@@ -38,5 +38,7 @@ Outil permettant de visualiser des données issues de fichiers CSV, Excel ou Wor
 **Données et Rapports Utilisés :**
 
 Rapport : La Femme Invisible dans le Numérique : Le Cercle Vicieux du Sexisme (2023).
+
 Women in Digital Scoreboard 2024 (EU).
+
 Données INSEE et Datawrapper.
