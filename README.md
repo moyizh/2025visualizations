@@ -26,16 +26,17 @@ Ce projet a pour objectif d’explorer la situation des femmes dans le domaine n
 
 **Contenu du Dossier :**
 
-	1.	Visualisations interactives :
+1. Visualisations interactives :
 	
 Diagrammes représentant les disparités dans les professions numériques.
 Nuage de mots basé sur le rapport La Femme Invisible dans le Numérique : Le Cercle Vicieux du Sexisme.
 
-	2.	Application Streamlit :
-	•	Outil permettant de visualiser des données issues de fichiers CSV, Excel ou Word, avec des options de diagrammes (barres, lignes, secteurs, nuage de mots).
+2. Application Streamlit :
+Outil permettant de visualiser des données issues de fichiers CSV, Excel ou Word, avec des options de diagrammes (barres, lignes, secteurs, nuage de mots).
 
 
 **Données et Rapports Utilisés :**
+
 Rapport : La Femme Invisible dans le Numérique : Le Cercle Vicieux du Sexisme (2023).
 Women in Digital Scoreboard 2024 (EU).
 Données INSEE et Datawrapper.
